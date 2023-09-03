@@ -1,9 +1,7 @@
 ### 👋 Hello, I'm [Gregor Lenz](https://lenzgregor.com)!
 
-I'm a machine learning engineer currently working at [SynSense](https://synsense.ai/) with a PhD in neuromorphic engineering and a strong interest in open-source software. I try to build tools that are easy to use because we can all use a little less time debugging! I work with event-based cameras, spiking neural networks and neuromorphic hardware and love to combine the three. 
+I'm the CTO at [Neurobus](https://neurobus.space), where we develop neuromorphic solutions for space 🧠🚀! This a great application area as it combines the requirements of low power consumption, resiliance and scalability for our brain-inspired AI tech. I have a PhD in neuromorphic engineering from Sorbonne University and a strong interest in open-source software. I try to build tools that are easy to use, to help getting started with experiments faster! I work with event-based cameras, spiking neural networks and neuromorphic hardware and love to combine the three. 
 
-I'm looking to collaborate on machine learning theory for spiking neural networks and feel free to ask my about tooling related to event-based computing, because I've authored libraries for [camera file parsing](https://github.com/open-neuromorphic/expelliarmus), [data wrangling](https://github.com/neuromorphs/tonic) and [SNN training](https://github.com/synsense/sinabs).
-
-It's easiest to reach me on SynSense's [Discord](https://discord.gg/V6FHBZURkg), but I'm also on [Twitter](twitter.com/gregorlenz) and [LinkedIn](https://www.linkedin.com/in/gregorlenz/).
+Neurobus is a young team of clever minds with European values at heart and we're going to grow quickly. If you're interested in learning more, please get in touch! You can reach me at gregor@neurobus.space, on Open Neuromorphic's [Discord](https://discord.gg/C9bzWgNmqk), on [Twitter](twitter.com/gregorlenz) and [LinkedIn](https://www.linkedin.com/in/gregorlenz/).
 
 
